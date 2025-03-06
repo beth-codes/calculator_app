@@ -1,7 +1,0 @@
-namespace Calculator.Core.Interfaces;
-
-public interface ISimpleCalculator
-{
-    double Add(double start, double amount);
-    double Subtract(double start, double amount);
-}
