@@ -1,0 +1,11 @@
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/bin/Debug/net9.0/Calculator.Core.deps.json
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/bin/Debug/net9.0/Calculator.Core.dll
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/bin/Debug/net9.0/Calculator.Core.pdb
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.AssemblyInfoInputs.cache
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.AssemblyInfo.cs
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.dll
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/refint/Calculator.Core.dll
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/Calculator.Core.pdb
+/Users/admin/Documents/Github/CalculatorTest/Calculator.Core/obj/Debug/net9.0/ref/Calculator.Core.dll
