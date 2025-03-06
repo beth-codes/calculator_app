@@ -1,0 +1,17 @@
+using Calculator.Core.Interfaces;
+namespace Calculator.Core.Services;
+
+public class SimpleCalculator : ISimpleCalculator
+{
+    public double Add(double start, double amount)
+    {
+        double additionResult = start + amount;
+        return additionResult;
+    }
+
+    public double Subtract(double start, double amount)
+    {
+        double subtractionResult = start - amount;
+        return subtractionResult;
+    }
+}
