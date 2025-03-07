@@ -10,6 +10,8 @@ public class CalculatorServiceTests
     {
         _calculator = new SimpleCalculator();
     }
+
+    // 3  tests for addition, subtraction and if a negative value is returned
     [Fact]
     public void AdditionTest()
     {

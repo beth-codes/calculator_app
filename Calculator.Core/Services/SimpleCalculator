@@ -3,6 +3,8 @@ namespace Calculator.Core.Services;
 
 public class SimpleCalculator : ISimpleCalculator
 {
+
+    // int is changed to double  so it can handle both whole numbers and decimals
     public double Add(double start, double amount)
     {
         double additionResult = start + amount;

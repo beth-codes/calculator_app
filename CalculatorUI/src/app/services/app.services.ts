@@ -9,9 +9,9 @@ export class AppService {
   constructor(private http: HttpClient) {}
 
   add(start: number, amount: number): Observable<any> {
-    return this.http.get(` http://localhost:5101/api/calculator/add?start=${start}&amount=${amount}`);
+    return this.http.get(`http://localhost:5101/api/calculator/add?start=${start}&amount=${amount}`);
   }
   subtract(start: number, amount: number): Observable<any> {
-    return this.http.get(` http://localhost:5101/api/calculator/subtract?start=${start}&amount=${amount}`);
+    return this.http.get(`http://localhost:5101/api/calculator/subtract?start=${start}&amount=${amount}`);
   }
 }

@@ -8,6 +8,7 @@ builder.Services.AddOpenApi();
 builder.Services.AddControllers();
 builder.Services.AddScoped<ISimpleCalculator, SimpleCalculator>();
 
+// cors is allowed for all for development purpose
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
@@ -28,7 +29,6 @@ if (app.Environment.IsDevelopment())
     app.MapScalarApiReference();
 }
 app.UseCors("AllowAll");
-
 app.UseHttpsRedirection();
 app.MapControllers();
 app.Run();
